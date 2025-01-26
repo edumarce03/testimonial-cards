@@ -16,4 +16,5 @@ The goal of this project is to teach you about positioning and layout in CSS. Ea
 1. Clona este repositorio: `git clone https://github.com/eduamarce03/testimonial-cards.git`
 2. Navega al directorio del proyecto: `cd testimonial-cards`
 
+![image](https://github.com/user-attachments/assets/2dc2b27e-5a42-4b30-a1ea-8f992e753204)
 
